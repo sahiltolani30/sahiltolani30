@@ -1,10 +1,25 @@
-# Hi, I'm Sahil Kumar Tolani
+# Sahil Kumar Tolani
+### I turn LLM ideas into shipped software.
 
-**AI/ML Engineer (Fresher)** · B.Tech CSE (AI), ABESIT Ghaziabad, 2022-2026 · Noida, India
+AI/ML Engineer (fresher) · B.Tech CSE (AI), ABESIT Ghaziabad '26 · Noida, India
 
-I build with LLMs and ship real software. As a freelance Automation Developer at ILLTOCHILL (Sep 2025 - Feb 2026), I built Python data pipelines across the Amazon SP-API, Shopify and Printful APIs on PostgreSQL, and an automation engine that generated 100+ product variants via REST APIs.
+- 🔭 **Currently:** rebuilding my 4 resume projects in public, one repo at a time
+- 💼 **Before graduating I was already shipping:** freelance Automation Developer @ ILLTOCHILL (Sep 2025 - Feb 2026). Python data pipelines across the Amazon SP-API, Shopify and Printful APIs on PostgreSQL, plus an automation engine that generated 100+ product variants via REST APIs
+- 🌱 **Deep into:** RAG systems, LLM fine-tuning (LoRA/QLoRA), agentic workflows
+- 📫 **Open to:** AI/ML Engineer · Python Backend · GenAI roles — Delhi NCR or remote worldwide
 
-## Tech stack
+## What I've built
+
+| Project | |
+|---|---|
+| **MindWell AI** | Dual-persona mental-wellness chatbot. Fine-tuned Llama-3 8B, DistilRoBERTa emotion classifier, RAG over 200+ support techniques |
+| **CafeGuru** | Flask + PostgreSQL + Razorpay SaaS for cafes, with a live WebSocket kitchen display |
+| **AI Message Notification Router** | Agentic WhatsApp router for text, image and voice notes on the Gemini API. Built for HackerRank Orchestrate '26 |
+| **Kidney Stone Detection** | YOLOv8 computer-vision pipeline for detecting kidney stones in scans |
+
+*Clean public rebuilds of these are on the way — watch this space.*
+
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -15,23 +30,14 @@ I build with LLMs and ship real software. As a freelance Automation Developer at
 
 Python · Flask · PostgreSQL · TensorFlow · HuggingFace Transformers · PEFT (LoRA/QLoRA) · RAG · YOLOv8/OpenCV · vLLM · Gemini API · Docker
 
-## Featured projects
-
-| Project | What it is |
-|---|---|
-| [AI Message Notification Router](https://github.com/sahiltolani30/ai-message-notification-router) | Agentic WhatsApp router for text, image and voice notes, powered by the Gemini API. Built for HackerRank Orchestrate (Aug 2026). |
-| **MindWell AI** | Dual-persona mental-wellness chatbot: fine-tuned Llama-3 8B, DistilRoBERTa emotion classifier, RAG over 200+ support techniques. |
-| **CafeGuru** | Flask + PostgreSQL + Razorpay SaaS for cafes, with a live WebSocket kitchen display. |
-| **Kidney Stone Detection** | YOLOv8 computer-vision pipeline for detecting kidney stones in scans. |
-
-## GitHub stats
+## Stats
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahiltolani30&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiltolani30&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sahiltolani30&theme=radical)](https://git.io/streak-stats)
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/sahiltolani30](https://www.linkedin.com/in/sahiltolani30)
-- Open to: AI/ML Engineer · Python Backend Developer · GenAI roles (Delhi NCR / Remote)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahiltolani30)
 
-*Currently rebuilding my best projects in public — watch this space.*
+![Profile views](https://komarev.com/ghpvc/?username=sahiltolani30&color=0e75b6&style=flat)
